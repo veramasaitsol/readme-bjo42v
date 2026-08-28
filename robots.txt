@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veramasaitsol.github.io/readme-bjo42v/sitemap.xml
